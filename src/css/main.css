@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+    user-select: none;
+
+}
+
+.dog {
+    background: url('../images/dog.jpg');
+    width: 500px;
+    height: 500px;
+}
+
+.dragon {
+    background: url('../images/dragon.png');
+    width: 500px;
+    height: 500px;
+}
